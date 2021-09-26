@@ -1,0 +1,36 @@
+Empty line (encode):
+	Success!
+Empty line (decode):
+	Success!
+One cage (encode):
+	Success!
+One cage (decode):
+	Success!
+Two cages (encode):
+	Success!
+Two cages (decode):
+	Success!
+Three cages (encode):
+	Success!
+Three cages (decode):
+	Success!
+Four cages (encode):
+	Success!
+Four cages (decode):
+	Success!
+Checking the shift by 4 (not the cage) (encode):
+	Success!
+Checking the shift by 4 (not the cage) (decode):
+	Success!
+Privet, I wait you here too long (encode):
+	Success!
+Privet, I wait you here too long (decode):
+	Success!
+Thirty six '#' (encode):
+	Success!
+Thirty six '#' (decode):
+	Success!
+Long line (encode):
+	Success!
+Long line (decode):
+	Success!
